@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
