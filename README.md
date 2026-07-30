@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0228-summary-ranges) |
+| [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3285-find-indices-of-stable-mountains) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
