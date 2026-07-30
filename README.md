@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
