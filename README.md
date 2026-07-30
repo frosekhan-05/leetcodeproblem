@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3925-concatenate-array-with-reverse) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
