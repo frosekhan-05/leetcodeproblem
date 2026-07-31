@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
