@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
