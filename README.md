@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
