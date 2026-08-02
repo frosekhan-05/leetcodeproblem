@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
