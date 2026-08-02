@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Sorting
