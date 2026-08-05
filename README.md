@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
