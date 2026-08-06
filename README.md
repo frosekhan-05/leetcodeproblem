@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
