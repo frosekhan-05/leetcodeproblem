@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
