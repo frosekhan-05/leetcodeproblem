@@ -152,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
