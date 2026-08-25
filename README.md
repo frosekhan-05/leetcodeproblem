@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1486-xor-operation-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
