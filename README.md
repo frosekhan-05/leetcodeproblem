@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3925-concatenate-array-with-reverse) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
