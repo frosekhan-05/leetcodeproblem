@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0628-maximum-product-of-three-numbers) |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0496-next-greater-element-i) |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
