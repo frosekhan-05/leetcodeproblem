@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0925-long-pressed-name](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0925-long-pressed-name) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0925-long-pressed-name](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0925-long-pressed-name) |
 | [2942-find-words-containing-character](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
