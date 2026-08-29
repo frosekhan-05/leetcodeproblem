@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/frosekhan-05/leetcodeproblem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3285-find-indices-of-stable-mountains](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1486-xor-operation-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
