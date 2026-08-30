@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0442-find-all-duplicates-in-an-array) |
