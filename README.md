@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3925-concatenate-array-with-reverse) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3870-count-commas-in-range) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/frosekhan-05/leetcodeproblem/tree/master/3945-digit-frequency-score) |
 ## Sorting
