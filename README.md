@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0274-h-index) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0078-subsets) |
 | [0461-hamming-distance](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/frosekhan-05/leetcodeproblem/tree/master/1486-xor-operation-in-an-array) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/frosekhan-05/leetcodeproblem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
